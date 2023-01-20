@@ -46,4 +46,13 @@ List<MyImage> kImageList = [
     isMarked: false,
     emoji: false,
   ),
+  MyImage(
+    userName: 'Nami',
+    avatarUrl:
+        'https://images.unsplash.com/photo-1670537114418-1313e0ae41ac?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80',
+    imageUrl:
+        'https://images.unsplash.com/photo-1670510521047-da0e1e68524d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80',
+    isMarked: false,
+    emoji: false,
+  ),
 ];
